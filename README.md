@@ -1,13 +1,14 @@
-### Hi I Am Abhijith ⚛️
+### Hey there 🤖
 
-Here are some ideas to get you started:
+#### Hello I'm Abhijithmanu
+🚀from India
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...twitter- @blackdevilh4
+- 📫 How to reach me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -34,6 +35,4 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
- <h1 align="center">Welcome to my GitHub profile</h1> 
-<p align="center">   <a href="https://github.abhijithmanu "><img src="https://github-readme-stats.vercel.app/api?username=abhijithmanu &hide_border=true&show_icons=true" alt="abhijithmanu 's github stats"></a>
-</p>
+ 
