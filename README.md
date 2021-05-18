@@ -34,4 +34,6 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
- 
+ <h1 align="center">Welcome to my GitHub profile</h1> 
+<p align="center">   <a href="https://github.com/keralahacker"><img src="https://github-readme-stats.vercel.app/api?username=Keralahacker&hide_border=true&show_icons=true" alt="keralahacker 's github stats"></a>
+</p>
