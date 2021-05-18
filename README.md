@@ -1,5 +1,3 @@
-### Hey there 🤖
-
 #### Hello I'm Abhijithmanu
 🚀from India
 
