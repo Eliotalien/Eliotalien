@@ -34,5 +34,4 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<p align="center">   <a href="https://github.com/abhijithmanu "><img src="https://github-readme-stats.vercel.app/api?username=abhijithmanu &hide_border=true&show_icons=true" alt="abhijithmanu 's github stats"></a>
-</p>
+ 
