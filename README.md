@@ -1,5 +1,4 @@
-### Hi I am Abhijithmanu 👋
-
+### Hi I Am Abhijith ⚛️
 
 Here are some ideas to get you started:
 
@@ -24,4 +23,3 @@ Here are some ideas to get you started:
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
 </br>
 
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
