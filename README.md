@@ -2,9 +2,12 @@
 🚀from India 🇮🇳
 
 
-<a href="https://www.instagram.com/invites/contact/?i=35m7ib18txlb&utm_content=kreu8ab/">
+<a href="https://www.instagram.com/p/CJ6X1PAB81w/?utm_medium=copy_link/">
+
 
 <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+
 
 </a>
 
