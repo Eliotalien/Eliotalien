@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...I spend almost 12 hours listening songs🎧 every day.
 -->
 
-[![Twitter: @blackdevilh4](https://img.shields.io/twitter/follow/blackdevilh4)
+![Twitter: @blackdevilh4](https://img.shields.io/twitter/follow/blackdevilh4)
 
 ### Languages & Tools 👨‍💻 🛠:
 </br> 
