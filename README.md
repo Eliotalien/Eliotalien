@@ -1,5 +1,5 @@
 #### Hello I'm 🅰🅱🅷🅸🅹🅸🆃🅷🅼🅰🅽🆄
-🚀from India 🇮🇳
+```🚀from India 🇮🇳```
 
 
 <a href="https://www.instagram.com/p/CJ6X1PAB81w/?utm_medium=copy_link/">
@@ -9,13 +9,19 @@
 
 
 - 🔭 I’m currently working on ```CYBER ETHICAL HACKING 😜```
+
 - 🌱 I’m currently learning ```Hacking,Online earn```
+
 - 👯 I’m looking to collaborate on ```YouTube,Netflix```
+
 - 💬 Ask me about ```Hacking or any tech related stuff 🤩```
+
 - 📫 How to reach me:[Twitter - @blackdevilh4](https://twitter.com/blackdevilh4?s=09)
-- 😄 Pronouns: ...```He/His```
+
+- 😄 Pronouns: ```He/His```
+
 - ⚡ Fun fact: ```I spend almost 12 hours listening songs🎧 every day```
--->
+
 
 ![Twitter: @blackdevilh4](https://img.shields.io/twitter/follow/blackdevilh4)
 
