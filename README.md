@@ -28,7 +28,7 @@
 
 [twitter]: https://twitter.com/blackdevilh4/
 [instagram]:https://instagram.com/qmxhy2sgzgv2awwgadq/
-
+- [Contact me!]
 
 <h1>Languages & Tools 👨‍💻 🛠:</h1>
 </br> 
