@@ -25,7 +25,7 @@
 
 
 ![Twitter: @blackdevilh4](https://img.shields.io/twitter/follow/blackdevilh4)
-![Instagram:@qmxhy2sgvawwgadq](https://www.instagram.com/p/CQtfANGJUYP/?utm_medium=copy_link)
+![Instagram:@qmxhy2sgvawwgadq](https://img.shields.io/instagram.com/p/CQtfANGJUYP/?utm_medium=copy_link)
 ### Languages & Tools 👨‍💻 🛠:
 </br> 
 <p align="center"> 
