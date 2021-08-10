@@ -32,7 +32,7 @@
 [instagram]:https://instagram.com/qmxhy2sgzgv2awwgadq/
 
 
-<h1>### Languages & Tools 👨‍💻 🛠:</h1>
+<h1>Languages & Tools 👨‍💻 🛠:</h1>
 </br> 
 <p align="center"> 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
