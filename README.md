@@ -23,7 +23,8 @@
 
 - ⚡ Fun fact: ```I spend almost 12 hours listening songs🎧 every day```
 
-   ⚛️ Reach me:
+⚛️ Reach me:
+
 [<img align="left" alt=" Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
