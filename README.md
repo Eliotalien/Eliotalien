@@ -26,8 +26,9 @@
 ⚛️ Reach me:
              [<img align="left" alt=" Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
              [<img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[twitter]: https://twitter.com/blackdevilh4/
-[instagram]:https://instagram.com/qmxhy2sgzgv2awwgadq/
+
+             [twitter]: https://twitter.com/blackdevilh4/
+             [instagram]:https://instagram.com/qmxhy2sgzgv2awwgadq/
 
 
 <h1>Languages & Tools 👨‍💻 🛠:</h1>
