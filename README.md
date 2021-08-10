@@ -31,7 +31,7 @@
 
 [twitter]: https://twitter.com/blackdevilh4/
 [instagram]:https://instagram.com/qmxhy2sgzgv2awwgadq/
-[gmail]: manuabhijith08@gmail.com.com
+[gmail]: manuabhijith08@gmail.com.com/
 
 ### Languages & Tools 👨‍💻 🛠:
 </br> 
