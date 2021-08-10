@@ -33,7 +33,8 @@
 [instagram]:https://instagram.com/qmxhy2sgzgv2awwgadq/
 [gmail]: manuabhijith08@gmail.com.com/
 
-### Languages & Tools 👨‍💻 🛠:
+
+              ### Languages & Tools 👨‍💻 🛠:
 </br> 
 <p align="center"> 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
