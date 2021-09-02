@@ -34,7 +34,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-![Github](https://github.com/abhijithmanu/abhijithmanu/blob/main/20210331_225922.jpg)
+![Github](https://github.com/Eliotalien/Eliotalien/blob/main/20210818_123432.jpg)
 
 ```Github stats```
 
