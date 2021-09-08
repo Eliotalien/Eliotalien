@@ -17,7 +17,7 @@
 
 - 💬 Ask me about ```Hacking or any tech related stuff 🤩```
 
-- 📫 How to reach me:[Twitter - @blackdevilh4](https://twitter.com/blackdevilh4?s=09)
+- 📫 How to reach me:[Twitter - @Eliotalien](https://twitter.com/Eliotalien)
 
 - 😄 Pronouns: ```He/His```
 
@@ -26,8 +26,8 @@
 [<img align="left" alt=" Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Eliotalien
-[instagram]:https://instagram.com/qmxhy2sgzgv2awwgadq/
+[twitter]: (https://twitter.com/Eliotalien)
+[instagram]:(https://instagram.com/)
 - [Contact me!]
 
 
