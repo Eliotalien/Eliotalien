@@ -26,8 +26,8 @@
 [<img align="left" alt=" Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: (https://twitter.com/Eliotalien)
-[instagram]:(https://instagram.com/)
+[twitter]: https://twitter.com/Eliotalien
+[instagram]:https://instagram.com/eliot_alien/
 - [Contact me!]
 
 
